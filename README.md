@@ -6,7 +6,7 @@ This repository hosts the official Privacy Policy for the **PinPrice Scanner** A
 
 The privacy policy is published via GitHub Pages at:
 ```
-https://jimmycanosa.github.io/pinprice-scanner-privacy-policy/
+https://pincoderdev.github.io/pinprice-scanner-privacy-policy/
 ```
 
 ## App
